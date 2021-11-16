@@ -13,9 +13,10 @@
   * spyder (IDE) 
   * openpyxl
   * jupyter lab
-  * seaborn (statistical visualisation, New: 15 nov)
+  * seaborn (statistical visualisation)
 * install jupyter lab variable explorer
-`conda install -c conda-forge jupyter_contrib_nbextensions`
-`conda install -c conda-forge jupyterlab-variableinspector`
+```conda install -c conda-forge jupyter_contrib_nbextensions```
+
+```conda install -c conda-forge jupyterlab-variableinspector```
 * install jupyter jupyter lab
-`conda install -c conda-forge jupyterlab-git`
+```conda install -c conda-forge jupyterlab-git```
