@@ -1,0 +1,12 @@
+wind_color = 'orange'
+solar_color= 'yellow'
+wind_solar_color= 'maroon'
+demand_color= 'blue'
+solar_label = 'Solar irradiation ($kJ/m^2$)'
+wind_label = 'Wind speed ($m/s$)'
+energy_label = 'Energy ($KWh$)'
+solar_energy_label = 'Solar'
+wind_energy_label = 'Wind'
+demand_energy_label = 'Demand'
+wind_solar_energy_label = 'Wind + Solar'
+data_year = 2020
