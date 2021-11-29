@@ -1,5 +1,5 @@
-wind_color = 'goldenrod'
-solar_color= 'crimson'
+wind_color = 'crimson'
+solar_color= 'goldenrod'
 wind_solar_color= 'maroon'
 demand_color= 'blue'
 deficit_color= 'indigo'
