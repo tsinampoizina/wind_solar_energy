@@ -1,4 +1,8 @@
 wind_color = '#7030A0'
+size31 = (8,2)
+size32 = (8,3.5)
+size33 = (8,5)
+size34 = (8,6.5)
 solar_color= '#66FF99'
 wind_solar_color= '#ED7D31'
 demand_color= 'blue'
